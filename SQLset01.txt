@@ -200,3 +200,6 @@ select h.name,h.city,r.room_no,r.price from hotel h JOIN room r ON h.Hotel_No=r.
 | Boston   |   155.0000 |
 | Toronto  |   147.0000 |
 +----------+------------+
+
+
+16) This is a change done from GIT HUB
